@@ -4,31 +4,31 @@
   <img src="./name-banner.svg" alt="Muhammed Rahim neon LED name banner" width="100%" />
 </p>
 
-### 🦸 Hero Tech Recruit | Full-Stack & AI Learner
+### 🪄 Wizarding Developer | Full-Stack & AI Learner
 
 Welcome to my GitHub profile! I'm studying full-stack development and artificial intelligence, while building my programming foundation with C++, HTML, and Java.
 
-## ⚡ Hero Tech Initiative
+## ⚡ Wizarding Full-Stack Quest
 
-> Every great builder starts with a mission. Mine is to turn ideas into useful software—one project at a time.
+> Every great developer starts with a spellbook. Mine is a growing collection of code, ideas, and practical projects.
 
-**🛡️ Team:** Code & Curiosity &nbsp; **🏆 Rank:** Tech Recruit &nbsp; **🎯 Mission:** Full-Stack + AI
+**🏰 House:** Code & Curiosity &nbsp; **📜 Rank:** Apprentice Coder &nbsp; **✨ Mission:** Full-Stack + AI
 
 <p align="center">
-  <img src="./hero-tech-interface.svg" alt="Professional hero tech interface for a full-stack mission" width="100%" />
+  <img src="./wizard-wand-interface.svg" alt="Professional wizard wand casting a moving spell across a full-stack mission" width="100%" />
 </p>
 
-### 🧰 My hero toolkit
+### 📜 My spellbook
 
 - **HTML** — crafting the structure of web pages
 - **Java** — practicing application logic and object-oriented programming
 - **C++** — strengthening problem-solving and algorithm skills
 
-### 🎯 Active missions
+### 🧪 Current spells
 
-- Suit up the front end of full-stack applications
+- Shape the front end of full-stack applications
 - Build reliable server-side systems
-- Train AI ideas through practical experiments
+- Experiment with AI ideas
 - Turn each new lesson into a working project
 
 I'm also learning new tools and improving my development workflow. Open to collaboration, feedback, and interesting ideas.
