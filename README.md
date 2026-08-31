@@ -14,6 +14,10 @@ Welcome to my GitHub profile! I'm studying full-stack development and artificial
 
 **🏰 House:** Code & Curiosity &nbsp; **📚 Rank:** Apprentice Builder &nbsp; **✨ Quest:** Full-Stack + AI
 
+<p align="center">
+  <img src="./wizard-quest.svg" alt="Colorful wizard flying through a coding quest" width="100%" />
+</p>
+
 ### 📜 My spellbook
 
 - **HTML** — crafting the structure of web pages
