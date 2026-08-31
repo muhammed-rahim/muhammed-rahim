@@ -4,16 +4,30 @@
   <img src="./name-banner.svg" alt="Muhammed Rahim neon LED name banner" width="100%" />
 </p>
 
-### Full-Stack Development Student | AI Enthusiast
+### 🪄 Hogwarts Coding Apprentice | Full-Stack & AI Learner
 
 Welcome to my GitHub profile! I'm studying full-stack development and artificial intelligence, while building my programming foundation with C++, HTML, and Java.
 
-## 🚀 What I'm working on
+## ⚡ Wizarding Full-Stack Journey
 
-- Studying full-stack development and AI
-- Building practical projects to strengthen my programming skills
-- Learning new tools and improving my development workflow
-- Open to collaboration, feedback, and interesting ideas
+> Every great developer starts as an apprentice. My current mission is to turn ideas into working magic—one project at a time.
+
+**🏰 House:** Code & Curiosity &nbsp; **📚 Rank:** Apprentice Builder &nbsp; **✨ Quest:** Full-Stack + AI
+
+### 📜 My spellbook
+
+- **HTML** — crafting the structure of web pages
+- **Java** — practicing application logic and object-oriented programming
+- **C++** — strengthening problem-solving and algorithm skills
+
+### 🧪 Current quests
+
+- Master the front-end charms of full-stack development
+- Explore the server-side magic behind web applications
+- Study AI and build practical experiments
+- Turn each new lesson into a working project
+
+I'm also learning new tools and improving my development workflow. Open to collaboration, feedback, and interesting ideas.
 
 ## 🧰 Tools and technologies
 
