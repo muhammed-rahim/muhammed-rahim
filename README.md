@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm studying full-stack development and artificial
 **🛡️ Team:** Code & Curiosity &nbsp; **🏆 Rank:** Tech Recruit &nbsp; **🎯 Mission:** Full-Stack + AI
 
 <p align="center">
-  <img src="./hero-quest.svg" alt="Colorful superhero flying through a full-stack tech mission" width="100%" />
+  <img src="./hero-tech-interface.svg" alt="Professional hero tech interface for a full-stack mission" width="100%" />
 </p>
 
 ### 🧰 My hero toolkit
