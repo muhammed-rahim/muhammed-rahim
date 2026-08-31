@@ -33,11 +33,39 @@ Welcome to my GitHub profile! I'm studying full-stack development and artificial
 
 I'm also learning new tools and improving my development workflow. Open to collaboration, feedback, and interesting ideas.
 
-## 🧰 Tools and technologies
+## 🪄 Wizard's Tech Arsenal
 
-`C++` · `HTML` · `Java`
+<p align="center">
+  <sub>✨ MAGICAL TOOLS EQUIPPED ✨</sub><br /><br />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
 
-Currently learning: full-stack development and artificial intelligence.
+<table align="center">
+  <tr>
+    <th>🔮 Spell</th>
+    <th>What it helps me create</th>
+  </tr>
+  <tr>
+    <td><b>C++</b></td>
+    <td>Logic, algorithms, and problem-solving foundations</td>
+  </tr>
+  <tr>
+    <td><b>HTML5</b></td>
+    <td>Structured and accessible web pages</td>
+  </tr>
+  <tr>
+    <td><b>Java</b></td>
+    <td>Application logic and object-oriented programming practice</td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>📚 Currently learning:</b><br />
+  <img src="https://img.shields.io/badge/Full--Stack_Development-6E40C9?style=flat-square" alt="Full-Stack Development" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat-square&logo=openai&logoColor=white" alt="Artificial Intelligence" />
+</p>
 
 ## 📌 Featured projects
 
