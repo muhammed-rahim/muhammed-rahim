@@ -1,0 +1,49 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammed Rahim neon LED name banner</title>
+  <desc id="desc">A dark neon LED-style banner displaying the name Muhammed Rahim.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816" />
+      <stop offset="0.5" stop-color="#11113a" />
+      <stop offset="1" stop-color="#061b2d" />
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f5ff" />
+      <stop offset="0.5" stop-color="#8b5cf6" />
+      <stop offset="1" stop-color="#ff2bd6" />
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18" />
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="28" fill="url(#bg)" />
+  <circle cx="210" cy="80" r="90" fill="#00f5ff" opacity="0.12" filter="url(#softGlow)" />
+  <circle cx="990" cy="220" r="120" fill="#ff2bd6" opacity="0.12" filter="url(#softGlow)" />
+
+  <g fill="#00f5ff" opacity="0.85">
+    <circle cx="70" cy="55" r="3" /><circle cx="1130" cy="58" r="3" />
+    <circle cx="95" cy="240" r="3" /><circle cx="1100" cy="245" r="3" />
+  </g>
+
+  <rect x="48" y="48" width="1104" height="204" rx="20" fill="none" stroke="url(#neon)" stroke-width="3" opacity="0.9" filter="url(#glow)" />
+  <rect x="62" y="62" width="1076" height="176" rx="14" fill="none" stroke="#263b78" stroke-width="1" />
+
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="118" fill="#9ca3af" font-size="18" letter-spacing="7">PLAYER 01 • PROFILE ARCADE</text>
+    <text x="600" y="183" fill="#ffffff" font-size="56" font-weight="700" letter-spacing="4" filter="url(#glow)">MUHAMMED RAHIM</text>
+    <text x="600" y="217" fill="#67e8f9" font-size="16" letter-spacing="4">FULL-STACK DEVELOPMENT • AI • BUILDING</text>
+  </g>
+
+  <g fill="url(#neon)" filter="url(#glow)">
+    <circle cx="105" cy="150" r="6" /><circle cx="1095" cy="150" r="6" />
+  </g>
+</svg>
+
