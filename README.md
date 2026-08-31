@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Muhammed Rahim 👋
 
-<!--
-**muhammed-rahim/muhammed-rahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Development Student | AI Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm studying full-stack development and artificial intelligence, while building my programming foundation with C++, HTML, and Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm working on
+
+- Studying full-stack development and AI
+- Building practical projects to strengthen my programming skills
+- Learning new tools and improving my development workflow
+- Open to collaboration, feedback, and interesting ideas
+
+## 🧰 Tools and technologies
+
+`C++` · `HTML` · `Java`
+
+Currently learning: full-stack development and artificial intelligence.
+
+## 📌 Featured projects
+
+| Project | Description |
+| --- | --- |
+| Project One | Add a short, outcome-focused description here. |
+| Project Two | Add a short, outcome-focused description here. |
+
+## 📊 GitHub activity
+
+![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammed-rahim&show_icons=true&hide_border=true&rank_icon=github&theme=transparent)
+
+## 📫 Let's connect
+
+- GitHub: [@muhammed-rahim](https://github.com/muhammed-rahim)
+- LinkedIn: `Add your LinkedIn URL`
+- Email: `Add a professional email if you want it public`
+
+---
+
+⭐ Thanks for visiting my profile!
+
