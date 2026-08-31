@@ -1,5 +1,9 @@
 # Hi, I'm Muhammed Rahim 👋
 
+<p align="center">
+  <img src="./name-banner.svg" alt="Muhammed Rahim neon LED name banner" width="100%" />
+</p>
+
 ### Full-Stack Development Student | AI Enthusiast
 
 Welcome to my GitHub profile! I'm studying full-stack development and artificial intelligence, while building my programming foundation with C++, HTML, and Java.
