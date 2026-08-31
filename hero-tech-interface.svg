@@ -1,0 +1,64 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Professional hero tech interface</title>
+  <desc id="desc">A sleek dark interface with a glowing energy shield, circuit lines, light pulses, and a full-stack mission label.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#050816" />
+      <stop offset="0.5" stop-color="#111b3a" />
+      <stop offset="1" stop-color="#230d32" />
+    </linearGradient>
+    <linearGradient id="energy" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#38bdf8" />
+      <stop offset="0.48" stop-color="#f43f5e" />
+      <stop offset="1" stop-color="#facc15" />
+    </linearGradient>
+    <radialGradient id="core">
+      <stop stop-color="#ffffff" />
+      <stop offset="0.25" stop-color="#67e8f9" />
+      <stop offset="1" stop-color="#2563eb" />
+    </radialGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+    <filter id="soft" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="18" />
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="26" fill="url(#bg)" />
+  <circle cx="600" cy="156" r="110" fill="#2563eb" opacity="0.14" filter="url(#soft)" />
+  <circle cx="600" cy="156" r="78" fill="none" stroke="#38bdf8" stroke-width="2" opacity="0.25" />
+  <circle cx="600" cy="156" r="106" fill="none" stroke="#f43f5e" stroke-width="1" opacity="0.2" stroke-dasharray="4 12" />
+
+  <g fill="none" stroke="url(#energy)" stroke-linecap="round" opacity="0.8">
+    <path d="M70 88 H260 L330 156 H438" stroke-width="3" />
+    <path d="M1130 88 H940 L870 156 H762" stroke-width="3" />
+    <path d="M70 230 H245 L318 156 H438" stroke-width="3" />
+    <path d="M1130 230 H955 L882 156 H762" stroke-width="3" />
+  </g>
+
+  <g fill="#67e8f9" filter="url(#glow)">
+    <circle cx="260" cy="88" r="5"><animate attributeName="opacity" values="0.25;1;0.25" dur="1.2s" repeatCount="indefinite" /></circle>
+    <circle cx="940" cy="88" r="5"><animate attributeName="opacity" values="1;0.25;1" dur="1.5s" repeatCount="indefinite" /></circle>
+    <circle cx="245" cy="230" r="5"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.7s" repeatCount="indefinite" /></circle>
+    <circle cx="955" cy="230" r="5"><animate attributeName="opacity" values="1;0.2;1" dur="1.3s" repeatCount="indefinite" /></circle>
+  </g>
+
+  <g transform="translate(600 156)" filter="url(#glow)">
+    <path d="M0 -72 L62 -43 V8 C62 48 34 72 0 88 C-34 72 -62 48 -62 8 V-43Z" fill="#0f172a" stroke="url(#energy)" stroke-width="5" />
+    <path d="M0 -51 L43 -31 V7 C43 31 25 49 0 62 C-25 49 -43 31 -43 7 V-31Z" fill="none" stroke="#f8fafc" stroke-width="2" opacity="0.5" />
+    <circle cx="0" cy="3" r="21" fill="url(#core)">
+      <animate attributeName="r" values="18;24;18" dur="1.5s" repeatCount="indefinite" />
+    </circle>
+    <path d="M-10 3 H10 M0 -7 V13" stroke="#ffffff" stroke-width="3" stroke-linecap="round" />
+    <animateTransform attributeName="transform" type="rotate" values="0 600 156; 360 600 156" dur="18s" repeatCount="indefinite" />
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="52" fill="#94a3b8" font-size="15" letter-spacing="6">FULL-STACK HERO SYSTEM</text>
+    <text x="600" y="265" fill="#f8fafc" font-size="23" font-weight="700" letter-spacing="6">ASSEMBLE YOUR NEXT BUILD</text>
+    <text x="600" y="292" fill="#67e8f9" font-size="13" letter-spacing="4">CODE • CREATE • DEBUG • DEPLOY</text>
+  </g>
+</svg>
+
