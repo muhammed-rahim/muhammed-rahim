@@ -67,12 +67,25 @@ I'm also learning new tools and improving my development workflow. Open to colla
   <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat-square&logo=openai&logoColor=white" alt="Artificial Intelligence" />
 </p>
 
-## 📌 Featured projects
+## ✨ Featured Project Quests
 
-| Project | Description |
-| --- | --- |
-| Project One | Add a short, outcome-focused description here. |
-| Project Two | Add a short, outcome-focused description here. |
+> Click a quest to reveal its magical status. Replace these placeholders with your real project links when they are ready.
+
+<details>
+  <summary><b>🧪 Quest 01 — First Full-Stack Spell</b> · <i>Click to reveal</i></summary>
+  <p align="center">
+    <img src="./project-sparkles.svg" alt="Animated magical sparkles" width="100%" />
+  </p>
+  <p><b>Status:</b> Preparing the first adventure<br /><b>Mission:</b> Build a useful web application from front end to back end.</p>
+</details>
+
+<details>
+  <summary><b>🔮 Quest 02 — AI Enchantment</b> · <i>Click to reveal</i></summary>
+  <p align="center">
+    <img src="./project-sparkles.svg" alt="Animated magical sparkles" width="100%" />
+  </p>
+  <p><b>Status:</b> Spellbook research in progress<br /><b>Mission:</b> Explore an AI idea and turn it into a practical experiment.</p>
+</details>
 
 ## 🎮 Contribution Arcade
 
