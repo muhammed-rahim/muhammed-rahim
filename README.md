@@ -4,31 +4,31 @@
   <img src="./name-banner.svg" alt="Muhammed Rahim neon LED name banner" width="100%" />
 </p>
 
-### 🪄 Hogwarts Coding Apprentice | Full-Stack & AI Learner
+### 🦸 Hero Tech Recruit | Full-Stack & AI Learner
 
 Welcome to my GitHub profile! I'm studying full-stack development and artificial intelligence, while building my programming foundation with C++, HTML, and Java.
 
-## ⚡ Wizarding Full-Stack Journey
+## ⚡ Hero Tech Initiative
 
-> Every great developer starts as an apprentice. My current mission is to turn ideas into working magic—one project at a time.
+> Every great builder starts with a mission. Mine is to turn ideas into useful software—one project at a time.
 
-**🏰 House:** Code & Curiosity &nbsp; **📚 Rank:** Apprentice Builder &nbsp; **✨ Quest:** Full-Stack + AI
+**🛡️ Team:** Code & Curiosity &nbsp; **🏆 Rank:** Tech Recruit &nbsp; **🎯 Mission:** Full-Stack + AI
 
 <p align="center">
-  <img src="./wizard-quest.svg" alt="Colorful wizard flying through a coding quest" width="100%" />
+  <img src="./hero-quest.svg" alt="Colorful superhero flying through a full-stack tech mission" width="100%" />
 </p>
 
-### 📜 My spellbook
+### 🧰 My hero toolkit
 
 - **HTML** — crafting the structure of web pages
 - **Java** — practicing application logic and object-oriented programming
 - **C++** — strengthening problem-solving and algorithm skills
 
-### 🧪 Current quests
+### 🎯 Active missions
 
-- Master the front-end charms of full-stack development
-- Explore the server-side magic behind web applications
-- Study AI and build practical experiments
+- Suit up the front end of full-stack applications
+- Build reliable server-side systems
+- Train AI ideas through practical experiments
 - Turn each new lesson into a working project
 
 I'm also learning new tools and improving my development workflow. Open to collaboration, feedback, and interesting ideas.
